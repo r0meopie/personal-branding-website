@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Demo Project - 1",
+    "description": "Demo Project - 1 Aplikasi Pengajuan Surat Izin",
+    "thumbnail": "./assets/Project1.png",
+    "images": []
+  },
+  {
+    "id": 2,
+    "name": "Demo Project - 2",
+    "description": "Demo Project - 2 Love Tester",
+    "thumbnail": "./assets/Project2.png",
+    "images": []
+  },
+  {
+    "id": 3,
+    "name": "Demo Project - 3",
+    "description": "Demo Project - 3 Love Tester",
+    "thumbnail": "./assets/Project3.png",
+    "images": []
+  }
+]
